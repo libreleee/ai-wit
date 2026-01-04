@@ -44,3 +44,13 @@ model : GPT-5.2-Codex, High**
 
 ---
 ---
+**2026-01-04 Claude Code <br>
+model : Sonnet 4.5<br><br>**
+CC 가 개발 다완료했다고 해서, GPT-5.2-Codex ExtraHigh 로 검증하니 아직 미완료, 그래서 미완료 근거를 CC 에 제시하니 고백을 <br>
+**Claude 가 다했다고 해도 반드시 확인이 필요합니다** <br>
+<br>
+<img width="925" height="605" alt="image" src="https://github.com/user-attachments/assets/d0e31105-1b7f-4992-afaa-f31a8d7a0029" />
+
+---
+---
+
