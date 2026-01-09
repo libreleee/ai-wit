@@ -53,4 +53,11 @@ CC 가 개발 다완료했다고 해서, GPT-5.2-Codex ExtraHigh 로 검증하�
 
 ---
 ---
+**2026-01-09 gitgub copilot 
+model : Grok  Code Fast 1**
+<br>
+이건 grabage clear 위해 하는건데, guardrail 이 아주 잘되있는건가, 이건 해도  되는데, 내가 해야되  ㅠㅠ
+
+<img width="756" height="1181" alt="image" src="https://github.com/user-attachments/assets/ed96a480-e18f-490a-b116-e35314223c83" />
+
 
