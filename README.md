@@ -60,4 +60,15 @@ model : Grok  Code Fast 1**
 
 <img width="756" height="1181" alt="image" src="https://github.com/user-attachments/assets/ed96a480-e18f-490a-b116-e35314223c83" />
 
+---
+---
+**2026-01-14 gemini web
+model : gemini 3 pro**
 
+말투를 어디서 배웠는지, 좀 터프한데 ...
+Where did you learn that way of speaking? It's a bit tough...
+<img width="617" height="577" alt="image" src="https://github.com/user-attachments/assets/a189fac5-4ad5-410d-88e4-ef3c6ab4d54b" />
+
+
+---
+---
