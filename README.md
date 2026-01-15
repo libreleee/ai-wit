@@ -70,5 +70,17 @@ Where did you learn that way of speaking? It's a bit tough...
 <img width="617" height="577" alt="image" src="https://github.com/user-attachments/assets/a189fac5-4ad5-410d-88e4-ef3c6ab4d54b" />
 
 
+**2026-01-15 claude code
+model : Sonnet 4.5**
+
+GPT-5.2-Codex Extra High 로 Sonner 4.5 분석결과를 다시 평가했고, 그결과를 다시 Sonnet 4.5에 알려주니 
+착각했다고, 여러분도 반드시 크로스 체크(Cross-Check) 해보셔야 합니다
+
+<img width="752" height="203" alt="image" src="https://github.com/user-attachments/assets/199c6af7-6f00-4a09-a6de-db6355eefb4a" />
+<img width="280" height="93" alt="image" src="https://github.com/user-attachments/assets/aeb48eb6-b85b-4fe5-b3e1-4f9053b494bf" />
+
+
+
+
 ---
 ---
