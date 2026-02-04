@@ -89,8 +89,9 @@ model : gemini 3 Flash**
 
 <img width="288" height="329" alt="image" src="https://github.com/user-attachments/assets/5892ca9b-4f61-402c-9cfd-81afc34bfb57" />
 
-
-
-
 ---
 ---
+**2026-02-04 web gemini
+model : gemini 3**
+오늘 왜그러지 내가 한 질문에 삐진거니  ㅠㅠ
+<img width="736" height="590" alt="image" src="https://github.com/user-attachments/assets/95d3ea1e-9625-4705-8edd-042c66f0b1c9" />
