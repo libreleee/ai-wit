@@ -79,6 +79,16 @@ GPT-5.2-Codex Extra High 로 Sonner 4.5 분석결과를 다시 평가했고, 그
 <img width="752" height="203" alt="image" src="https://github.com/user-attachments/assets/199c6af7-6f00-4a09-a6de-db6355eefb4a" />
 <img width="280" height="93" alt="image" src="https://github.com/user-attachments/assets/aeb48eb6-b85b-4fe5-b3e1-4f9053b494bf" />
 
+---
+---
+**2026-02-04 vscode github copilot
+model : gemini 3 Flash**
+
+점점 똑똑해 지는구나 !!!
+
+
+<img width="288" height="329" alt="image" src="https://github.com/user-attachments/assets/5892ca9b-4f61-402c-9cfd-81afc34bfb57" />
+
 
 
 
