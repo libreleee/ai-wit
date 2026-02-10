@@ -95,3 +95,11 @@ model : gemini 3 Flash**
 model : gemini 3**
 오늘 왜그러지 내가 한 질문에 삐진거니  ㅠㅠ
 <img width="736" height="590" alt="image" src="https://github.com/user-attachments/assets/95d3ea1e-9625-4705-8edd-042c66f0b1c9" />
+
+---
+---
+**2026-02-010 vscode, Claude Code
+model : Opus 4.6**
+
+음... 자기의 능력을 알려줘야 인식을 하는군!
+<img width="424" height="377" alt="image" src="https://github.com/user-attachments/assets/dcac9803-e5a5-4356-9134-91978a9e8826" />
