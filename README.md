@@ -98,7 +98,7 @@ model : gemini 3**
 
 ---
 ---
-**2026-02-010 vscode, Claude Code
+**2026-02-10 vscode, Claude Code
 model : Opus 4.6**
 
 음... 자기의 능력을 알려줘야 인식을 하는군!
