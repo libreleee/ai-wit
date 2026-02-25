@@ -103,3 +103,13 @@ model : Opus 4.6**
 
 음... 자기의 능력을 알려줘야 인식을 하는군!
 <img width="424" height="377" alt="image" src="https://github.com/user-attachments/assets/dcac9803-e5a5-4356-9134-91978a9e8826" />
+
+---
+---
+**2026-02-10 vscode, github copilot
+model : Gemini 3.1 Pro**
+
+**Gemini의 고백과  ,context window 크기도 중요하지만 이전트로서 제 문제 해결 전략(Reasoning Strategy)의 중요성을 알려줌<br>
+Gemini's confession and context window size are important, but as an agent, it tells me the extent of my problem-solving strategy (reasoning strategy).**
+
+<img width="405" height="463" alt="image" src="https://github.com/user-attachments/assets/491fe488-503d-46c9-adf4-31556b4fd1be" />
