@@ -106,7 +106,7 @@ model : Opus 4.6**
 
 ---
 ---
-**2026-02-10 vscode, github copilot
+**2026-02-25 vscode, github copilot
 model : Gemini 3.1 Pro**
 
 **Gemini의 고백과  ,context window 크기도 중요하지만 이전트로서 제 문제 해결 전략(Reasoning Strategy)의 중요성을 알려줌<br>
