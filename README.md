@@ -113,3 +113,14 @@ model : Gemini 3.1 Pro**
 Gemini's confession and context window size are important, but as an agent, it tells me the extent of my problem-solving strategy (reasoning strategy).**
 
 <img width="405" height="463" alt="image" src="https://github.com/user-attachments/assets/491fe488-503d-46c9-adf4-31556b4fd1be" />
+
+---
+---
+**2026-03-01 vscode, github copilot
+model : Claude Opus 4.6**
+
+으 claude 이제는 제대로된거로 만들어줄줄 알았는데, 아직도, 하드코딩,시뮬레이션, 폴백 등으로 해결을 먼저하는게 아직도 있을줄이야 가짜 행사가를 만들다니 ...
+
+<img width="906" height="755" alt="image" src="https://github.com/user-attachments/assets/df3f3540-dd32-402f-8b32-726412c385ba" />
+
+
