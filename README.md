@@ -127,7 +127,7 @@ model : Claude Opus 4.6**
 ---
 **2026-03-29 vscode, github copilot
 model : Claude Sonnet 4.6**
-음,. 아직도 검증 필요, claude  Claude Mythos는 Capybara 티어의 첫 번째 모델, 이거 나오면 좀 개선 되겠지...
+<br>음,. 아직도 검증 필요, claude  Claude Mythos는 Capybara 티어의 첫 번째 모델, 이거 나오면 좀 개선 되겠지...<br>
 그래도, 아직은 믿어볼까나..., 크로스 체크하면서 기다리면 좀 나아지겠지
 
 <img width="892" height="445" alt="image" src="https://github.com/user-attachments/assets/7f8513a0-5f82-48ed-bd25-c656decb2b6c" />
