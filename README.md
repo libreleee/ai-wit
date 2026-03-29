@@ -152,4 +152,12 @@ model : Claude Sonnet 4.6**
 ---
 ---
 
+**2026-03-29 vscode, github copilot
+model : Claude Opus 4.6**
+<br>음,. Opus 너마저도, ... 그래 한번도 해보지 뭐 ...<br>
+그런데 너는 비용이 무려 x3 이러면 이러면 안되는데.. ㅠㅠ
+
+<img width="996" height="809" alt="image" src="https://github.com/user-attachments/assets/02a8563e-30a3-4c49-8412-f1a761f1b952" />
+
+
 
