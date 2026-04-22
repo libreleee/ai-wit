@@ -160,4 +160,13 @@ model : Claude Opus 4.6**
 <img width="996" height="809" alt="image" src="https://github.com/user-attachments/assets/02a8563e-30a3-4c49-8412-f1a761f1b952" />
 
 
+---
+---
+
+**2026-04-22 vscode, github copilot
+model : GPT-5.4-Xhigh**
+<br>GPT 그래도 합리적이고 분석적이었던 GPT..
+
+<img width="778" height="236" alt="image" src="https://github.com/user-attachments/assets/18767bb1-9ea2-40e2-abad-b7f3a552fa4e" />
+
 
