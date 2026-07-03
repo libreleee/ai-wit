@@ -169,4 +169,11 @@ model : GPT-5.4-Xhigh**
 
 <img width="778" height="236" alt="image" src="https://github.com/user-attachments/assets/18767bb1-9ea2-40e2-abad-b7f3a552fa4e" />
 
+---
+---
+
+**2026-07-03 gpt-web 
+model : GPT-5.5-High**
+<br>GPT 무한 루프에 빠진 내용 수정 GPT.. 끝난게 끝난게 아니야...
+<img width="647" height="422" alt="image" src="https://github.com/user-attachments/assets/1a6ca729-69e2-4057-972e-5b8d1bb4c169" />
 
