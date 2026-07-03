@@ -175,5 +175,4 @@ model : GPT-5.4-Xhigh**
 **2026-07-03 gpt-web 
 model : GPT-5.5-High**
 <br>GPT 무한 루프에 빠진 내용 수정 GPT.. 끝난게 끝난게 아니야...
-<img width="647" height="422" alt="image" src="https://github.com/user-attachments/assets/1a6ca729-69e2-4057-972e-5b8d1bb4c169" />
-
+<img width="650" height="527" alt="image" src="https://github.com/user-attachments/assets/deee46ea-6c13-4b7e-b240-e3fe14f3992c" />
