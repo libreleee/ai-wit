@@ -176,3 +176,13 @@ model : GPT-5.4-Xhigh**
 model : GPT-5.5-High**
 <br>GPT 무한 루프에 빠진 내용 수정 GPT.. 끝난게 끝난게 아니야...
 <img width="650" height="527" alt="image" src="https://github.com/user-attachments/assets/deee46ea-6c13-4b7e-b240-e3fe14f3992c" />
+
+---
+---
+
+**2026-07-13 Antigravity
+model : gemini 3.5 Flash-Low**
+<br>중용한 내용은 사람이 직접확인 필요, HITL... HITL...
+
+<img width="1098" height="168" alt="image" src="https://github.com/user-attachments/assets/d5aa9636-239c-423b-b268-3538514c7eac" />
+
