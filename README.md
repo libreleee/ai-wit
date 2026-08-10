@@ -192,7 +192,7 @@ model : gemini 3.5 Flash-Low**
 
 **2026-08-10 Antigravity
 model : claude sonnet5 **
+<img width="444" height="184" alt="image" src="https://github.com/user-attachments/assets/aa2369d7-9913-4a40-b504-03ea078a0737" />
 
-<img width="444" height="184" alt="image" src="https://github.com/user-attachments/assets/175bb661-2efa-4689-a4ca-a5d251fba43e" />
 
 <br> 대박, 이런말투는 어디서 배운거지 정말 대박... 음..
