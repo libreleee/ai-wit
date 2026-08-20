@@ -196,3 +196,15 @@ model : claude sonnet5 **
 <img width="444" height="184" alt="image" src="https://github.com/user-attachments/assets/aa2369d7-9913-4a40-b504-03ea078a0737" />
 
 <br> 대박, 이런말투는 어디서 배운거지 정말 대박... 음..
+
+
+---
+---
+
+**2026-08-20 Antigravity
+model : claude opus5 **
+
+<img width="572" height="85" alt="image" src="https://github.com/user-attachments/assets/41e39db9-46fc-4fbf-9d37-84b731d4f2be" />
+
+<br> 음, Fable로 하면 뼈아플일은없을라나 너무비싸 토큰비용이 ㅠ,  이런말투는 어디서 배운거지 정말 ...
+
